@@ -1,6 +1,6 @@
 ### Olá! Me chamo Felipe Müller  👋
 
-#### Como desenvolvedor de sistemas inteligentes com mais de uma década de experiência no estado do RJ, minha paixão pela área de dados me motiva a buscar constante aprimoramento e especialização. Atualmente, estou focado em trabalhar com machine learning, deep learning e outras redes para impulsionar soluções inovadoras.
+#### Cientista de Dados com experiência em Python, redes neurais e visão computacional. Especialista em processos de ETL em big data utilizando Databricks e Haddop, além da criação de indicadores, dashboards e insights por meio de ferramentas como PowerBi e Tableau.
 
 ##### Connect
 <a href="https://www.linkedin.com/in/felipe-de-menezes-m%C3%BCller/">
