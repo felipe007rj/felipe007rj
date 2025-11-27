@@ -1,0 +1,18 @@
+Mudanças Principais:
+1. Remoção completa de adaptadores legacy (~250 linhas)
+
+❌ Removidos: read_pdfs(), call_gemini(), build_json_response(), _extract_company_type(), _split_pdf_if_needed(), _ocr_pdf()
+2. Substituição por API refatorada (~70 linhas)
+
+✅ LocalCoreProcessor agora sobrescreve apenas:
+_initialize_credentials() - carrega chave.json local
+_initialize_services() - configura services para teste local
+3. Uso direto dos métodos refatorados:
+
+processor.process_pdfs() - processa PDFs com OCR
+processor.genai_service.generate_content() - chama Gemini
+processor.build_final_response() - monta JSON
+processor._process_gemini_response() - pipeline de processamento
+processor._process_representatives() - processa representantes
+processor.procuracao_processor.augment_with_procuracao() - adiciona procurações
+Resultado: De código híbrido (legacy + adaptadores) para 100% código refatorado com mínima customização local.
