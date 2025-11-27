@@ -1,1 +1,6 @@
+"""Orquestrador principal do processamento."""
+
+from .processor import CoreProcessor
+
+__all__ = ['CoreProcessor']
 
