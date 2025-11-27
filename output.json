@@ -1,77 +1,71 @@
-"resultado_final": {
-    "id": "test_lote_20251127_092727",
+{
+  "tipo_processamento": "lote_pdfs",
+  "timestamp_processamento": "2025-11-17T20:44:42.779705",
+  "arquivos_processados": [
+    "20 ACS Filial SJC.pdf"
+  ],
+  "total_arquivos": 1,
+  "total_caracteres_ocr": 24207,
+  "detalhes_processamento": [
+    {
+      "arquivo": "20 ACS Filial SJC.pdf",
+      "arquivo_cache_txt": "20 ACS Filial SJC_ocr_cache.txt",
+      "caminho": "/home/t103077/Desktop/automacao-ia/firp-automacao-ia/temp/tmp1/1. FIRMAS E PODERES/ADYEN/20 ACS Filial SJC.pdf",
+      "document_index": 1,
+      "num_paginas": 12,
+      "caracteres": 24207,
+      "is_multiple_documents": false,
+      "timestamp": "2025-11-17T20:43:36.499333"
+    }
+  ],
+  "resultado_final": {
+    "id": "test_lote_20251117_204324",
     "data": {
       "junta_comercial": "JUCESP",
-      "cnpj": "92.874.270/0001-40",
-      "razao_social": "BANCO DIGIMAS S.A.",
-      "natureza_juridica": "S.A.",
-      "endereco": "Rua Elvira Ferraz, n° 250, conjunto 1.102, bairro Vila Olímpia, São Paulo, Estado de São Paulo, CEP: 04.552-040",
-      "cotas_societarias": "Dado não disponível no documento",
-      "representantes_legais": "João Luiz Urbaneja Thiago Rodrigues Urbaneja Cristiano Duarte Fraga Fernanda de Sousa Grecco Alves João Alves de Campos",
+      "cnpj": "14.796.606/0001-90",
+      "razao_social": "ADYEN DO BRASIL INSTITUIÇÃO DE PAGAMENTO LTDA.",
+      "natureza_juridica": "LTDA",
+      "endereco": "Avenida das Nações Unidas, 14.261, Condomínio WT Morumbi, conjunto 3001B - Ala B, Vila Gertrudes, São Paulo, Estado de São Paulo, CEP 04794-000",
+      "cotas_societarias": "**, ADYEN N.V. - 159.276.677 quotas (88.98%), ADYEN INTERNATIONAL B.V. - 19.734.966 quotas (11.02%)",
+      "representantes_legais": "Thais Porto Fischberg, Cássia Mendonça Pinheiro, Bruno Stemposki",
       "representantes_detalhados": [
         {
-          "nome": "João Luiz Urbaneja",
-          "cpf": "012.137.698-25",
-          "cargo": "Diretor Presidente",
-          "endereco_residencia": "Dado não disponível no documento",
-          "tipo_assinatura": "Em conjunto",
-          "origem_assinatura": "Art. 12º do Estatuto Social",
-          "regras_representacao": "Resumo: Convocar e presidir as reuniões da Diretoria; Coordenar e orientar as atividades dos demais diretores, conferindo tarefas não previstas no Estatuto; Estruturar os serviços da Companhia e estabelecer normas internas e operacionais; Estabelecer metas e objetivos em conjunto com os demais diretores; Exercer as demais atribuições conferidas pela Assembleia Geral; A Companhia será administrada por uma Diretoria de 3 a 8 membros, eleitos pela Assembleia Geral para mandato de 2 anos, permitida a reeleição, exercendo o mandato até a investidura dos sucessores; A Diretoria pode estabelecer designações específicas para cada diretor; Em caso de renúncia, morte ou impedimento, a Assembleia Geral elegerá o substituto; Representar a Companhia, ativa e passivamente, em qualquer ato judicial ou extrajudicial; Praticar todos os atos e celebrar todos os contratos que se relacionem com o fim e se enquadrem no objeto da Companhia; Contrair obrigações e empréstimos; Criar e extinguir filiais, sucursais, agências ou representações; Constituir mandatários ou procuradores para agir em conjunto com um diretor ou outro procurador, com atos e prazo especificados; Para procurações \"ad judicia\", o mandato poderá ser por prazo indeterminado e para um só procurador; É vedado usar a denominação social em negócios estranhos ao fim social ou de natureza gratuita como fiança, abonos ou avais.",
-          "origem_regras_representacao": "Art. 8º; Art. 9º; Art. 10º; Art. 11\", incisos I a V; Art. 12º, incisos I a VI e § Único do Estatuto Social",
-          "data_validade_regras": "Todos os Diretores deverão permanecer em seus cargos até a posse dos que forem eleitos na Assembleia Geral Ordinária a ser realizada em 2024.",
-          "origem_data_validade": "Item 5.1.1 da Ata de Assembleia Geral Extraordinária de 26/01/2024"
+          "nome": "Thais Porto Fischberg",
+          "cpf": "321.030.318-57",
+          "cargo": "Diretora Presidente",
+          "endereco_residencia": "Avenida das Nações Unidas, 14.261, Condomínio WT Morumbi, conjunto 3001B Ala B, Vila Gertrudes, São Paulo, Estado de São Paulo, CEP 04794-000",
+          "tipo_assinatura": "Isolado",
+          "origem_assinatura": "Parágrafo 4º, alínea 'a' da Cláusula Quinta do Contrato Social",
+          "regras_representacao": "Ao senhor Thais Porto Fischberg compete A Sociedade será administrada por até 3 (três) administradores com mandato de 4 (quatro) anos, permitida a reeleição, permanecendo no cargo até a eleição de seus sucessores; É vedado o uso da denominação social em fianças, avais ou quaisquer outros assuntos gratuitos ou estranhos ao objetivo social; A Sociedade será validamente representada pela assinatura do Diretor Presidente, isoladamente; ou por 1 (um) Diretor sem designação específica agindo em conjunto com o Diretor Presidente; ou por 2 (dois) Diretores sem designação específica agindo conjuntamente, única e exclusivamente para a outorga de procurações; As procurações outorgadas deverão especificar os poderes conferidos.",
+          "origem_regras_representacao": "Cláusula Quinta e seus parágrafos 1º, 3º, 4º e 5º do Contrato Social",
+          "data_validade_regras": "Dado não disponível no documento",
+          "origem_data_validade": "Dado não disponível no documento"
         },
         {
-          "nome": "Thiago Rodrigues Urbaneja",
-          "cpf": "419.327.108-09",
-          "cargo": "Diretor sem designação específica",
-          "endereco_residencia": "Dado não disponível no documento",
-          "tipo_assinatura": "Em conjunto",
-          "origem_assinatura": "Art. 12º do Estatuto Social",
-          "regras_representacao": "Resumo: A Companhia será administrada por uma Diretoria de 3 a 8 membros, eleitos pela Assembleia Geral para mandato de 2 anos, permitida a reeleição, exercendo o mandato até a investidura dos sucessores; A Diretoria pode estabelecer designações específicas para cada diretor; Em caso de renúncia, morte ou impedimento, a Assembleia Geral elegerá o substituto; Representar a Companhia, ativa e passivamente, em qualquer ato judicial ou extrajudicial; Praticar todos os atos e celebrar todos os contratos que se relacionem com o fim e se enquadrem no objeto da Companhia; Contrair obrigações e empréstimos; Criar e extinguir filiais, sucursais, agências ou representações; Constituir mandatários ou procuradores para agir em conjunto com um diretor ou outro procurador, com atos e prazo especificados; Para procurações \"ad judicia\", o mandato poderá ser por prazo indeterminado e para um só procurador; É vedado usar a denominação social em negócios estranhos ao fim social ou de natureza gratuita como fiança, abonos ou avais.",
-          "origem_regras_representacao": "Art. 8º; Art. 9º; Art. 10º; Art. 12º, incisos I a VI e § Único do Estatuto Social",
-          "data_validade_regras": "Todos os Diretores deverão permanecer em seus cargos até a posse dos que forem eleitos na Assembleia Geral Ordinária a ser realizada em 2024.",
-          "origem_data_validade": "Item 5.1.1 da Ata de Assembleia Geral Extraordinária de 26/01/2024"
-        },
-        {
-          "nome": "Cristiano Duarte Fraga",
-          "cpf": "735.743.840-68",
-          "cargo": "Diretor sem designação específica",
-          "endereco_residencia": "Dado não disponível no documento",
-          "tipo_assinatura": "Em conjunto",
-          "origem_assinatura": "Art. 12º do Estatuto Social",
-          "regras_representacao": "Resumo: A Companhia será administrada por uma Diretoria de 3 a 8 membros, eleitos pela Assembleia Geral para mandato de 2 anos, permitida a reeleição, exercendo o mandato até a investidura dos sucessores; A Diretoria pode estabelecer designações específicas para cada diretor; Em caso de renúncia, morte ou impedimento, a Assembleia Geral elegerá o substituto; Representar a Companhia, ativa e passivamente, em qualquer ato judicial ou extrajudicial; Praticar todos os atos e celebrar todos os contratos que se relacionem com o fim e se enquadrem no objeto da Companhia; Contrair obrigações e empréstimos; Criar e extinguir filiais, sucursais, agências ou representações; Constituir mandatários ou procuradores para agir em conjunto com um diretor ou outro procurador, com atos e prazo especificados; Para procurações \"ad judicia\", o mandato poderá ser por prazo indeterminado e para um só procurador; É vedado usar a denominação social em negócios estranhos ao fim social ou de natureza gratuita como fiança, abonos ou avais.",
-          "origem_regras_representacao": "Art. 8º; Art. 9º; Art. 10º; Art. 12º, incisos I a VI e § Único do Estatuto Social",
-          "data_validade_regras": "Todos os Diretores deverão permanecer em seus cargos até a posse dos que forem eleitos na Assembleia Geral Ordinária a ser realizada em 2024.",
-          "origem_data_validade": "Item 5.1.1 da Ata de Assembleia Geral Extraordinária de 26/01/2024"
-        },
-        {
-          "nome": "Fernanda de Sousa Grecco Alves",
-          "cpf": "194.661.058-50",
+          "nome": "Cássia Mendonça Pinheiro",
+          "cpf": "226.785.928-98",
           "cargo": "Diretora sem designação específica",
-          "endereco_residencia": "Dado não disponível no documento",
+          "endereco_residencia": "Avenida das Nações Unidas, 14.261, Condomínio WT Morumbi, conjunto 3001B - Ala B, Vila Gertrudes, São Paulo, Estado de São Paulo, CEP 04794-000",
           "tipo_assinatura": "Em conjunto",
-          "origem_assinatura": "Art. 12º do Estatuto Social",
-          "regras_representacao": "Resumo: A Companhia será administrada por uma Diretoria de 3 a 8 membros, eleitos pela Assembleia Geral para mandato de 2 anos, permitida a reeleição, exercendo o mandato até a investidura dos sucessores; A Diretoria pode estabelecer designações específicas para cada diretor; Em caso de renúncia, morte ou impedimento, a Assembleia Geral elegerá o substituto; Representar a Companhia, ativa e passivamente, em qualquer ato judicial ou extrajudicial; Praticar todos os atos e celebrar todos os contratos que se relacionem com o fim e se enquadrem no objeto da Companhia; Contrair obrigações e empréstimos; Criar e extinguir filiais, sucursais, agências ou representações; Constituir mandatários ou procuradores para agir em conjunto com um diretor ou outro procurador, com atos e prazo especificados; Para procurações \"ad judicia\", o mandato poderá ser por prazo indeterminado e para um só procurador; É vedado usar a denominação social em negócios estranhos ao fim social ou de natureza gratuita como fiança, abonos ou avais.",
-          "origem_regras_representacao": "Art. 8º; Art. 9º; Art. 10º; Art. 12º, incisos I a VI e § Único do Estatuto Social",
-          "data_validade_regras": "Todos os Diretores deverão permanecer em seus cargos até a posse dos que forem eleitos na Assembleia Geral Ordinária a ser realizada em 2024.",
-          "origem_data_validade": "Item 5.1.1 da Ata de Assembleia Geral Extraordinária de 26/01/2024"
+          "origem_assinatura": "Parágrafo 4º, alíneas 'b' e 'd' da Cláusula Quinta do Contrato Social",
+          "regras_representacao": "Ao senhor Cássia Mendonça Pinheiro compete A Sociedade será administrada por até 3 (três) administradores com mandato de 4 (quatro) anos, permitida a reeleição, permanecendo no cargo até a eleição de seus sucessores; É vedado o uso da denominação social em fianças, avais ou quaisquer outros assuntos gratuitos ou estranhos ao objetivo social; A Sociedade será validamente representada pela assinatura do Diretor Presidente, isoladamente; ou por 1 (um) Diretor sem designação específica agindo em conjunto com o Diretor Presidente; ou por 2 (dois) Diretores sem designação específica agindo conjuntamente, única e exclusivamente para a outorga de procurações; As procurações outorgadas deverão especificar os poderes conferidos.",
+          "origem_regras_representacao": "Cláusula Quinta e seus parágrafos 1º, 3º, 4º e 5º do Contrato Social",
+          "data_validade_regras": "Dado não disponível no documento",
+          "origem_data_validade": "Dado não disponível no documento"
         },
         {
-          "nome": "João Alves de Campos",
-          "cpf": "075.807.908-74",
+          "nome": "Bruno Stemposki",
+          "cpf": "003.350.659-02",
           "cargo": "Diretor sem designação específica",
-          "endereco_residencia": "Dado não disponível no documento",
+          "endereco_residencia": "Avenida das Nações Unidas, 14.261, Condomínio WT Morumbi, conjunto 3001B - Ala B, Vila Gertrudes, São Paulo, Estado de São Paulo, CEP 04794-000",
           "tipo_assinatura": "Em conjunto",
-          "origem_assinatura": "Art. 12º do Estatuto Social",
-          "regras_representacao": "Resumo: A Companhia será administrada por uma Diretoria de 3 a 8 membros, eleitos pela Assembleia Geral para mandato de 2 anos, permitida a reeleição, exercendo o mandato até a investidura dos sucessores; A Diretoria pode estabelecer designações específicas para cada diretor; Em caso de renúncia, morte ou impedimento, a Assembleia Geral elegerá o substituto; Representar a Companhia, ativa e passivamente, em qualquer ato judicial ou extrajudicial; Praticar todos os atos e celebrar todos os contratos que se relacionem com o fim e se enquadrem no objeto da Companhia; Contrair obrigações e empréstimos; Criar e extinguir filiais, sucursais, agências ou representações; Constituir mandatários ou procuradores para agir em conjunto com um diretor ou outro procurador, com atos e prazo especificados; Para procurações \"ad judicia\", o mandato poderá ser por prazo indeterminado e para um só procurador; É vedado usar a denominação social em negócios estranhos ao fim social ou de natureza gratuita como fiança, abonos ou avais.",
-          "origem_regras_representacao": "Art. 8º; Art. 9º; Art. 10º; Art. 12º, incisos I a VI e § Único do Estatuto Social",
-          "data_validade_regras": "Todos os Diretores deverão permanecer em seus cargos até a posse dos que forem eleitos na Assembleia Geral Ordinária a ser realizada em 2024.",
-          "origem_data_validade": "Item 5.1.1 da Ata de Assembleia Geral Extraordinária de 26/01/2024"
+          "origem_assinatura": "Parágrafo 4º, alíneas 'b' e 'd' da Cláusula Quinta do Contrato Social",
+          "regras_representacao": "Ao senhor Bruno Stemposki compete A Sociedade será administrada por até 3 (três) administradores com mandato de 4 (quatro) anos, permitida a reeleição, permanecendo no cargo até a eleição de seus sucessores; É vedado o uso da denominação social em fianças, avais ou quaisquer outros assuntos gratuitos ou estranhos ao objetivo social; A Sociedade será validamente representada pela assinatura do Diretor Presidente, isoladamente; ou por 1 (um) Diretor sem designação específica agindo em conjunto com o Diretor Presidente; ou por 2 (dois) Diretores sem designação específica agindo conjuntamente, única e exclusivamente para a outorga de procurações; As procurações outorgadas deverão especificar os poderes conferidos.",
+          "origem_regras_representacao": "Cláusula Quinta e seus parágrafos 1º, 3º, 4º e 5º do Contrato Social",
+          "data_validade_regras": "Dado não disponível no documento",
+          "origem_data_validade": "Dado não disponível no documento"
         }
       ],
-      "quantidade_representantes": 5,
-      "referencia_da_origem": "Dado não disponível no documento",
-      "data_assinatura": "Ata de Assembleia Geral: Dado não disponível; DOCUMENTO_GENERICO: Dado não disponível",
-      "poderes_e_representacao": "João Luiz Urbaneja: Resumo: Convocar e presidir as reuniões da Diretoria; Coordenar e orientar as atividades dos demais diretores, conferindo tarefas não previstas no Estatuto; Estruturar os serviços da Companhia e estabelecer normas internas e operacionais; Estabelecer metas e objetivos em conjunto com os demais diretores; Exercer as demais atribuições conferidas pela Assembleia Geral; A Companhia será administrada por uma Diretoria de 3 a 8 membros, eleitos pela Assembleia Geral para mandato de 2 anos, permitida a reeleição, exercendo o mandato até a investidura dos sucessores; A Diretoria pode estabelecer designações específicas para cada diretor; Em caso de renúncia, morte ou impedimento, a Assembleia Geral elegerá o substituto; Representar a Companhia, ativa e passivamente, em qualquer ato judicial ou extrajudicial; Praticar todos os atos e celebrar todos os contratos que se relacionem com o fim e se enquadrem no objeto da Companhia; Contrair obrigações e empréstimos; Criar e extinguir filiais, sucursais, agências ou representações; Constituir mandatários ou procuradores para agir em conjunto com um diretor ou outro procurador, com atos e prazo especificados; Para procurações \"ad judicia\", o mandato poderá ser por prazo indeterminado e para um só procurador; É vedado usar a denominação social em negócios estranhos ao fim social ou de natureza gratuita como fiança, abonos ou avais.; Thiago Rodrigues Urbaneja: Resumo: A Companhia será administrada por uma Diretoria de 3 a 8 membros, eleitos pela Assembleia Geral para mandato de 2 anos, permitida a reeleição, exercendo o mandato até a investidura dos sucessores; A Diretoria pode estabelecer designações específicas para cada diretor; Em caso de renúncia, morte ou impedimento, a Assembleia Geral elegerá o substituto; Representar a Companhia, ativa e passivamente, em qualquer ato judicial ou extrajudicial; Praticar todos os atos e celebrar todos os contratos que se relacionem com o fim e se enquadrem no objeto da Companhia; Contrair obrigações e empréstimos; Criar e extinguir filiais, sucursais, agências ou representações; Constituir mandatários ou procuradores para agir em conjunto com um diretor ou outro procurador, com atos e prazo especificados; Para procurações \"ad judicia\", o mandato poderá ser por prazo indeterminado e para um só procurador; É vedado usar a denominação social em negócios estranhos ao fim social ou de natureza gratuita como fiança, abonos ou avais.; Cristiano Duarte Fraga: Resumo: A Companhia será administrada por uma Diretoria de 3 a 8 membros, eleitos pela Assembleia Geral para mandato de 2 anos, permitida a reeleição, exercendo o mandato até a investidura dos sucessores; A Diretoria pode estabelecer designações específicas para cada diretor; Em caso de renúncia, morte ou impedimento, a Assembleia Geral elegerá o substituto; Representar a Companhia, ativa e passivamente, em qualquer ato judicial ou extrajudicial; Praticar todos os atos e celebrar todos os contratos que se relacionem com o fim e se enquadrem no objeto da Companhia; Contrair obrigações e empréstimos; Criar e extinguir filiais, sucursais, agências ou representações; Constituir mandatários ou procuradores para agir em conjunto com um diretor ou outro procurador, com atos e prazo especificados; Para procurações \"ad judicia\", o mandato poderá ser por prazo indeterminado e para um só procurador; É vedado usar a denominação social em negócios estranhos ao fim social ou de natureza gratuita como fiança, abonos ou avais.; Fernanda de Sousa Grecco Alves: Resumo: A Companhia será administrada por uma Diretoria de 3 a 8 membros, eleitos pela Assembleia Geral para mandato de 2 anos, permitida a reeleição, exercendo o mandato até a investidura dos sucessores; A Diretoria pode estabelecer designações específicas para cada diretor; Em caso de renúncia, morte ou impedimento, a Assembleia Geral elegerá o substituto; Representar a Companhia, ativa e passivamente, em qualquer ato judicial ou extrajudicial; Praticar todos os atos e celebrar todos os contratos que se relacionem com o fim e se enquadrem no objeto da Companhia; Contrair obrigações e empréstimos; Criar e extinguir filiais, sucursais, agências ou representações; Constituir mandatários ou procuradores para agir em conjunto com um diretor ou outro procurador, com atos e prazo especificados; Para procurações \"ad judicia\", o mandato poderá ser por prazo indeterminado e para um só procurador; É vedado usar a denominação social em negócios estranhos ao fim social ou de natureza gratuita como fiança, abonos ou avais.; João Alves de Campos: Resumo: A Companhia será administrada por uma Diretoria de 3 a 8 membros, eleitos pela Assembleia Geral para mandato de 2 anos, permitida a reeleição, exercendo o mandato até a investidura dos sucessores; A Diretoria pode estabelecer designações específicas para cada diretor; Em caso de renúncia, morte ou impedimento, a Assembleia Geral elegerá o substituto; Representar a Companhia, ativa e passivamente, em qualquer ato judicial ou extrajudicial; Praticar todos os atos e celebrar todos os contratos que se relacionem com o fim e se enquadrem no objeto da Companhia; Contrair obrigações e empréstimos; Criar e extinguir filiais, sucursais, agências ou representações; Constituir mandatários ou procuradores para agir em conjunto com um diretor ou outro procurador, com atos e prazo especificados; Para procurações \"ad judicia\", o mandato poderá ser por prazo indeterminado e para um só procurador; É vedado usar a denominação social em negócios estranhos ao fim social ou de natureza gratuita como fiança, abonos ou avais."
-    },
+      "quantidade_representantes": 3,
+      "referencia_da_origem": "20ª ALTERAÇÃO DO CONTRATO SOCIAL DA",
+      "data_assinatura": "15/12/2023",
